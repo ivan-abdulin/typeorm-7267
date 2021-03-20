@@ -19,7 +19,7 @@ With
 import { Container } from 'typeorm-typedi-extensions'
 ```
 
-You could just uncomment import in index.ts
+You could just uncomment import in index.ts to verify that Container from typeorm-typedi-extensions works.
 
 
 #### Usage
